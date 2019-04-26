@@ -75,6 +75,7 @@ function JavascriptObject() {
                 + "\n" + schedule.week7 + "\t" + schedule.activity7;
         }
     };
+
     if (document.title === "Webprogramming (LIX019P05) - Index") {
         var h1 = document.createElement("h1");
         var title = document.createTextNode("Schedule");
