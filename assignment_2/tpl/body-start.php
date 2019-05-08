@@ -1,3 +1,2 @@
 <div class="container">
-    <div class="row wp-row"
-        <?= $body ?>
+    <div class="row wp-row">

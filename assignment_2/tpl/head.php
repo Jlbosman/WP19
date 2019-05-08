@@ -11,7 +11,21 @@
 </head>
 <body>
 <header>
-
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">News</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Links</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Future</a>
+                </li>
+            </ul>
+        </div>
 </header>
-</body>
-</html>
