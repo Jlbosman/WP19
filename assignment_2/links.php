@@ -15,7 +15,7 @@ include __DIR__ . '/tpl/head.php';
 include __DIR__ . '/tpl/body-start.php';
 ?>
     <div class="col-md-12">
-        <h1>Welcome to my site!</h1>
+        <h1>At this page of my site you can find some interesting links!</h1>
     </div>
 <?php
 include __DIR__ . '/tpl/body-end.php';
