@@ -14,7 +14,7 @@ include __DIR__ . '/tpl/head.php';
 /* Body */
 include __DIR__ . '/tpl/body-start.php';
 ?>
-    <div class="col-md-12">
+    <div class="col-md-12" id="links">
         <h1>At this page of my site you can find some interesting links!</h1>
     </div>
 <?php

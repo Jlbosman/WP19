@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="js/main.js">
     <link rel="stylesheet" href="https://code.jquery.com/jquery-3.3.1.slim.min.js">
+    <link rel="stylesheet" href="js/links.js">
 </head>
 <body>
 <header>
@@ -15,16 +16,16 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Home</a>
+                    <a class="nav-link" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">News</a>
+                    <a class="nav-link" href="news.php">News</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Links</a>
+                    <a class="nav-link" href="links.php">Links</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Future</a>
+                    <a class="nav-link" href="future.php">Future</a>
                 </li>
             </ul>
         </div>
