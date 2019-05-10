@@ -4,5 +4,5 @@ function createButton() {
 
 
 $(function() {
-    $("#links").append("<ul><li><a href='https://www.google.com'>Google</a></li><li><a href='https://www.facebook.com'>Facebook</a></li><li><a href='https://twitter.com'>Facebook</a></li></ul>")
-};
+    $("h1").append("<ul><li><a href='https://www.google.com'>Google</a></li><li><a href='https://www.facebook.com'>Facebook</a></li><li><a href='https://twitter.com'>Facebook</a></li></ul>")
+});
