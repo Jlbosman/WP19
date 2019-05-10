@@ -45,7 +45,7 @@ $(function() {
     $('#erase').on('click', function() {
         $("#form-content").hide();
         $("#form-alert").hide();
-        $("#form").remove();
+        $(".input").attr("type", "hidden");
     });
     $("#link-tab").click(function(){
         $("#links").show();

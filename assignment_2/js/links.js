@@ -6,7 +6,7 @@ $(function() {
     $("#links").append(links);
     input.appendTo($("#links"));
     $("#button").click(function() {
-        $("#list").toggle();
+        $("#list").fadeToggle();
     });
     inputfield.appendTo($("#links"));
     $("#button2").click(function() {
