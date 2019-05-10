@@ -1,8 +1,10 @@
-function createButton() {
-    var button1 = $('<input type="button" value="fade" id="button"/>');
-}
-
+var links ="<ul><li><a href='https://www.google.com' target='_blank'>Google</a></li><li><a href='https://www.facebook.com' target='_blank'>Facebook</a></li><li><a href='https://twitter.com' target='_blank'>Twitter</a></li></ul>";
 
 $(function() {
-    $("h1").append("<ul><li><a href='https://www.google.com'>Google</a></li><li><a href='https://www.facebook.com'>Facebook</a></li><li><a href='https://twitter.com'>Facebook</a></li></ul>")
+    $("#links").append(links);
+    var input = $('<input type="button" value="Fade in and out" />');
+    input.appendTo($("#links"));
+    input.click(function() {
+        $("links").toggle();
+    });
 });
