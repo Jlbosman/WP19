@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Siegfried Webhosting">
+  <component name="PublishConfigData" serverName="Siegfried Webhosting" uploadOnCheckin="db55e63f-a1f6-4a34-9ef6-84dde9ce501d">
     <serverData>
       <paths name="Siegfried Webhosting">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="Siegfried Webhosting" />
   </component>
 </project>

@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title><?= $page_title ?></title>
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="js/main.js">
+    <link rel="stylesheet" href="/WP19/assignment_2/js/main.js">
     <link rel="stylesheet" href="https://code.jquery.com/jquery-3.3.1.slim.min.js">
-    <link rel="stylesheet" href="js/links.js">
+    <link rel="stylesheet" href="/WP19/assignment_2/css/styles.css">
+    <link rel="stylesheet" href="/WP19/assignment_2/js/links.js">
+    <link rel="stylesheet" href="bootstrap.min.css">
 </head>
 <body>
 <header>

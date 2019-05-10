@@ -50,9 +50,13 @@ $(function() {
     $("#link-tab").click(function(){
         $("#links").show();
         $("#contact").hide();
+        $("#link-tab").addClass("active");
+        $("#contact-tab").removeClass("active");
     });
     $("#contact-tab").click(function () {
         $("#contact").show();
         $("#links").hide();
+        $("#link-tab").removeClass("active");
+        $("#contact-tab").addClass("active");
     });
 });
